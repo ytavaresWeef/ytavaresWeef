@@ -4,11 +4,11 @@
 - 💼 Desenvolvedor front-end
 - 💬 Contate-me no email: yuri.tavares_rs@hotmail.com
 
-<a href="https://github.com/ytavares/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ytavares&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+<a href="https://github.com/ytavaresWeef/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ytavaresWeef&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
 </a>
-<a href="https://github.com/ytavares/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytavares&layout=compact&langs_count=8&theme=dracula" />
+<a href="https://github.com/ytavaresWeef/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytavaresWeef&layout=compact&langs_count=8&theme=dracula" />
 </a>
 
 ## :wrench: Technologies
@@ -48,6 +48,6 @@
   <a href="https://wa.me/5521980832586" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/yu_tav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yuri.tavares_rs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ytavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ytavaresWeef" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
